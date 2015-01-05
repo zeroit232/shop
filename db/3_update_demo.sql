@@ -1,0 +1,1 @@
+UPDATE `res_user` SET `password` = md5('codespot2012'), `username`='tvlgiao', `email`='demo@opencart.com' WHERE `res_user`.`user_id`=1;
